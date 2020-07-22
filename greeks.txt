@@ -3,3 +3,5 @@ red
 green
 brown
 bblue
+white
+indigo
